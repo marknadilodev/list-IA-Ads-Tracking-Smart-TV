@@ -1536,7 +1536,6 @@
 ||geolocation.services.mozilla.com^
 ||map.fastly.net^
 ||*.map.fastly.net^
-||mozilla.map.fastly.net^
 ||reddit.map.fastly.net^
 ||imgur.map.fastly.net^
 ||github.map.fastly.net^
@@ -6650,8 +6649,6 @@ content_parts.append("""# ======================================================
 @@||www.ethicalhacker.com.br^$important
 @@||ytimg.com^$important
 @@||githubassets.com^$important
-@@||map.fastly.net^$important
-@@||fastly.net^$important
 @@||xda-developers.com^$important
 @@||www.xda-developers.com^$important
 @@||gsmware.com^$important
