@@ -5768,12 +5768,7 @@ content_parts.append("""# ======================================================
 @@||webtp.whatsapp.net^$important
 @@||pps.whatsapp.net^$important
 @@||flows.whatsapp.net^$important
-||*.samsung.com
-||*.samsung.com/login
-||*.account.samsung.com
 ||*.samsung.net
-@@||samsung.com^$important
-@@||www.samsung.com/br
 @@||t1.kakaocdn.net^$important
 @@||sp.vtex.com^$important
 @@||userpaneltv-pa.googleapis.com^$important
