@@ -1404,7 +1404,6 @@
 ||push.prod.netflix.com^$important
 @@||cas-bridge.xethub.hf.co^$important
 @@||a-api.anthropic.com^$important
-@@||fls-na.amazon.com.br^$important
 @@||abacus.ai^$important
 @@||bit.ly^$important
 @@||archive.softwareheritage.org^$important
@@ -1487,7 +1486,6 @@
 ||dpu.samsungelectronics.com^$important
 @@||webtor.io^$important
 @@||torrentseeker.com^$important
-@@||fls-na.amazon.com^$important
 ||ads.any-latam.prd.api.discomax.com^$important
 ||ads.discomax.com^$important
 ||ads.max.com^$important
